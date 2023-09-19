@@ -1,3 +1,4 @@
+! [headshot] (Strecker.jpg)
 # A Little Insight Into Strecker Peterson
 Hi. My name is Strecker Peterson. I'm passionate about communicating technical information to users to help them perform tasks.
 
